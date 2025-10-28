@@ -43,7 +43,7 @@ To view the live version, visit:
 👉 **https://flashfixtech.github.io**
 
 ---
-<!-- 🌟 Donations Section -->
+!-- 🌟 Donations Section -->
 <section id="donations" style="background-color:#001F3F; color:white; text-align:center; padding:40px 20px;">
   <h2 style="color:#00FFFF; font-size:28px;">💙 Donations</h2>
   <p>Support our work by donating through M-Pesa. Your help keeps us growing and active!</p>
