@@ -52,9 +52,8 @@ To view the live version, visit:
     <a href="tel:*334*1*0702478554#" 
        style="background-color:#00FFFF; color:#001F3F; padding:15px 35px; border-radius:10px; 
               text-decoration:none; font-size:18px; font-weight:bold; display:inline-block; 
-              box-shadow:0 0 20px #00FFFF; animation: pulse 2s infinite;">
-      💸 Donate via M-Pesa
-    0702478554
+              box-shadow:0 0 20px #00FFFF; animation: pulse 2s infinite;">0702478554
+      
 ## 🧩 How to Edit or Customize
 1. Clone or download this repository.  
 2. Open `index.html` in a text editor.  
