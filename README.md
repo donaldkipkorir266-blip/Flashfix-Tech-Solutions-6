@@ -54,17 +54,7 @@ To view the live version, visit:
               text-decoration:none; font-size:18px; font-weight:bold; display:inline-block; 
               box-shadow:0 0 20px #00FFFF; animation: pulse 2s infinite;">
       💸 Donate via M-Pesa
-    </a>
-  </div>
-
-  <style>
-    <@keyframes pulse {>
-     < 0% { box-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF; }>
-     < 50% { box-shadow: 0 0 25px #00FFFF, 0 0 50px #00FFFF; }>
-     < 100% { box-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF; }>
-    <}>
-  </style>
-</section>
+    0702478554
 ## 🧩 How to Edit or Customize
 1. Clone or download this repository.  
 2. Open `index.html` in a text editor.  
