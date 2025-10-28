@@ -43,7 +43,6 @@ To view the live version, visit:
 👉 **https://flashfixtech.github.io**
 
 ---
-!-- 🌟 Donations Section -->
 <section id="donations" style="background-color:#001F3F; color:white; text-align:center; padding:40px 20px;">
   <h2 style="color:#00FFFF; font-size:28px;">💙 Donations</h2>
   <p>Support our work by donating through M-Pesa. Your help keeps us growing and active!</p>
@@ -59,11 +58,11 @@ To view the live version, visit:
   </div>
 
   <style>
-    @keyframes pulse {
-      0% { box-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF; }
-      50% { box-shadow: 0 0 25px #00FFFF, 0 0 50px #00FFFF; }
-      100% { box-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF; }
-    }
+    <@keyframes pulse {>
+     < 0% { box-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF; }>
+     < 50% { box-shadow: 0 0 25px #00FFFF, 0 0 50px #00FFFF; }>
+     < 100% { box-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF; }>
+    <}>
   </style>
 </section>
 ## 🧩 How to Edit or Customize
